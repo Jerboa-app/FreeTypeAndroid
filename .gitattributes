@@ -1,2 +1,2 @@
-app/src/main/cpp/include/freetype/* linguist-vendored
-app/src/main/cpp/include/glm/* linguist-vendored
+app/src/main/cpp/include/freetype/** linguist-vendored
+app/src/main/cpp/include/glm/** linguist-vendored
