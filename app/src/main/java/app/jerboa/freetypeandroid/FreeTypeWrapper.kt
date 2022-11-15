@@ -3,6 +3,7 @@ package app.jerboa.freetypeandroid
 import android.content.res.AssetManager
 
 class FreeTypeWrapper {
+    
     companion object {
         init {
             System.loadLibrary("TextRenderer")
@@ -26,4 +27,5 @@ class FreeTypeWrapper {
     )
 
     external fun free()
+    
 }
